@@ -87,13 +87,11 @@ ul li:hover a {
 .hero {
 	
 	padding-bottom: 7px;
-	background-image: url(https://i.imgur.com/3C6UidB.png) ;
+	background-image: url(https://i.imgur.com/DgovSrm.jpg) ;
 	backface-visibility:
 	width:100%
-	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-attachment: fixed;
 }
 
 .title {
@@ -135,7 +133,7 @@ ul li:hover a {
 	padding-left: 25px;
 	padding-right: 25px;
 	display: inline-block;
-	background-color: #fd7500;
+	background-color: #ef3400;
 	margin-top: 0px;
 	
 }
@@ -293,12 +291,16 @@ footer .footer_column p {
 	border-top-width: 2px;
 }
 .footer_banner {
-	background-color: #B3B3B3;
-	padding-top: 60px;
-	padding-bottom: 60PX;
+	padding-bottom: 15PX;
+	padding-top: 15px;
 	margin-bottom: 0px;
-	background-image: url(http://vdhl.ru/wp-content/uploads/2017/07/28-650x372.jpg);
+	background-image: url(https://i.imgur.com/jZvPLzU.jpgtent/uploads/2017/08/Full-HD-s-1080p-4k-HD-New-wallpaper-wpt100556.jpg);
 	background-position: center;
+	backface-visibility:
+	width:100%
+	background-repeat: no-repeat;
+	background-size: cover;
+	
 }
 footer {
 	display: inline-block;
@@ -417,7 +419,7 @@ nav ul li {
 	float: none;
 	overflow: auto;
 	display: inline-block;
-	background: #fd7500;
+	background: #ef3400;
 }
 header nav ul {
 	padding: 0px;
@@ -533,16 +535,16 @@ nav ul li {
         padding-bottom: 560px; /* 16:9 */
         padding-top: 25px;
 	    height: 0px
-		
+			
 		
 }
 .cc-map-wrapper iframe {
-        position: absolute;
-        top: 0;
+
+		top: 0;
         left: 0;
-        width: 100%;
+        width: 105%;
         height: 75%;
-	
+		position: absolute;
 } 
 
 .foda{
