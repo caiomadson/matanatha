@@ -87,7 +87,7 @@ ul li:hover a {
 .hero {
 	
 	padding-bottom: 7px;
-	background-image: url(https://i.imgur.com/DgovSrm.jpg) ;
+	background-image: url(https://i.imgur.com/jZvPLzU.jpg) ;
 	backface-visibility:
 	width:100%
 	background-repeat: no-repeat;
@@ -133,7 +133,7 @@ ul li:hover a {
 	padding-left: 25px;
 	padding-right: 25px;
 	display: inline-block;
-	background-color: #ef3400;
+	background-color: #e7711b;
 	margin-top: 0px;
 	
 }
@@ -292,9 +292,9 @@ footer .footer_column p {
 }
 .footer_banner {
 	padding-bottom: 15PX;
-	padding-top: 15px;
+	padding-top: 10px;
 	margin-bottom: 0px;
-	background-image: url(https://i.imgur.com/jZvPLzU.jpgtent/uploads/2017/08/Full-HD-s-1080p-4k-HD-New-wallpaper-wpt100556.jpg);
+	background-image: url(https://i.imgur.com/29JosNj.png);nt/uploads/2017/08/Full-HD-s-1080p-4k-HD-New-wallpaper-wpt100556.jpg);
 	background-position: center;
 	backface-visibility:
 	width:100%
@@ -419,7 +419,7 @@ nav ul li {
 	float: none;
 	overflow: auto;
 	display: inline-block;
-	background: #ef3400;
+	background: #e7711b;
 }
 header nav ul {
 	padding: 0px;
@@ -543,7 +543,7 @@ nav ul li {
 		top: 0;
         left: 0;
         width: 105%;
-        height: 75%;
+        height: 76%;
 		position: absolute;
 } 
 
