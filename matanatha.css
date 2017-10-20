@@ -291,7 +291,7 @@ footer .footer_column p {
 	border-top-width: 2px;
 }
 .footer_banner {
-	padding-bottom: 15PX;
+	padding-bottom: 40PX;
 	padding-top: 10px;
 	margin-bottom: 0px;
 	background-image: url(https://i.imgur.com/29JosNj.png);nt/uploads/2017/08/Full-HD-s-1080p-4k-HD-New-wallpaper-wpt100556.jpg);
@@ -380,10 +380,7 @@ nav ul li {
 	float: none;
 	text-align: center;
 }
-.banner {
-	background-color: #2D9AB7;
-	background-image: none;
-}
+
 .tagline {
 	margin-top: 20px;
 	line-height: 22px;
@@ -532,18 +529,17 @@ nav ul li {
 }
 .cc-map-wrapper {
         position: relative;
-        padding-bottom: 560px; /* 16:9 */
+        padding-bottom: 554px; /* 16:9 */
         padding-top: 25px;
-	    height: 0px
-			
+	    height: 0px			
 		
 }
 .cc-map-wrapper iframe {
-
-		top: 0;
+	
+			top: 0;
         left: 0;
-        width: 105%;
-        height: 76%;
+        width: 100%;
+        height: 113%;
 		position: absolute;
 } 
 
