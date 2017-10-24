@@ -1,4 +1,4 @@
-@charset "UTF-8";
+.@charset "UTF-8";
 /* Body */
 body {
 	font-family: source-sans-pro;
@@ -72,7 +72,7 @@ ul li:hover a {
 	margin-bottom: 0px;
 	margin-left: 0px;
 	letter-spacing: 4px;
-	font-size: 33px;
+	font-size: 23px;
     z-index: 0;
 	float: none;
     color: #fff;
@@ -80,8 +80,8 @@ ul li:hover a {
     text-align: center;
     text-transform: uppercase;
 	font-family: "Montserrat", Helvetica, sans-serif;
-    font-weight: 600;
-    line-height: 45px;
+    font-weight: 700;
+    line-height: 40px;
 }
 /* Hero Section */
 .hero {
@@ -112,8 +112,9 @@ ul li:hover a {
 	font-weight: lighter;
 	text-transform: uppercase;
 	letter-spacing: 1px;
-	font-weight: 600;
-	font-size: 18px;
+	font-weight: 690;
+	font-size: 12px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 	}
 
 /* About Section */
@@ -251,11 +252,11 @@ footer .footer_column p {
 
 .button1 {
 	width: 230px;
-	margin-top: 40px;
+	margin-top: 20px;
 	margin-right: auto;
 	margin-bottom: auto;
 	margin-left: auto;
-	padding-top: 20px;
+	padding-top: 15px;
 	padding-right: 10px;
 	padding-bottom: 20px;
 	padding-left: 10px;
